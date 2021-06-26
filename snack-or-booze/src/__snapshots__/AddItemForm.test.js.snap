@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should it match Snapshot 1`] = `
+<DocumentFragment>
+  <form
+    class="onSubmitForm"
+  >
+    <h1>
+      Add New Snack
+    </h1>
+    <div
+      class="position-relative form-group"
+    >
+      <label
+        class=""
+        for="name"
+      >
+        Name
+      </label>
+      <input
+        class="form-control"
+        id="name"
+        name="name"
+        placeholder="enter item name"
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      class="position-relative form-group"
+    >
+      <label
+        class=""
+        for="description"
+      >
+        Description
+      </label>
+      <input
+        class="form-control"
+        id="description"
+        name="description"
+        placeholder="description"
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      class="position-relative form-group"
+    >
+      <label
+        class=""
+        for="recipe"
+      >
+        Recipe
+      </label>
+      <input
+        class="form-control"
+        id="recipe"
+        name="recipe"
+        placeholder="recipe"
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      class="position-relative form-group"
+    >
+      <label
+        class=""
+        for="serve"
+      >
+        Serve
+      </label>
+      <input
+        class="form-control"
+        id="serve"
+        name="serve"
+        placeholder="serve"
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      class="btn btn-secondary"
+    >
+      Add New Item
+    </button>
+    <a
+      href="/snacks"
+    >
+      <button
+        class="btnBack btn btn-secondary"
+      >
+        Go Back
+      </button>
+    </a>
+  </form>
+</DocumentFragment>
+`;
